@@ -299,7 +299,7 @@ There is a {{htmlelement("cite")}} element, but this is meant to contain the tit
 ```html
 <p>
   According to the
-  <a href="/en-US/docs/Web/HTML/Element/blockquote">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote">
     <cite>MDN blockquote page</cite></a>:
 </p>
 
